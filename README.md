@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 𝗪𝗵𝗮𝘁 𝗜'm learning
 
 <p align="center">
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/python-FFFF00.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=ffffff" alt="python"></a>
+<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/php-FFFF00.svg?style=for-the-badge&logo=php&logoColor=0768a8&labelColor=ffffff" alt="php"></a>
 </p><br>
 <p align="center">
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/mysql-3aabe8.svg?style=for-the-badge&logo=mysql&logoColor=3aabe8&labelColor=ffffff" alt="mysql"></a>
@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/priyanshumay">
 <img src="https://img.shields.io/badge/vscode-blue.svg?style=for-the-badge&logo=visual-studio-code&labelColor=ffffff&logoColor=blue" alt="vscode">
 </a>
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/vim-darkgreen.svg?style=for-the-badge&logo=vim&logoColor=darkgreen&labelColor=ffffff" alt="vim"></a>
 </p><br>
 
 <p align="center">
