@@ -18,9 +18,6 @@ Here are some ideas to get you started:
 ## 𝗪𝗵𝗮𝘁 𝗜'm learning
 
 <p align="center">
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/unity-FFFF00.svg?style=for-the-badge&logo=unity&logoColor=0768a8&labelColor=ffffff" alt="unity"></a>
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/eclipse-FFFF00.svg?style=for-the-badge&logo=eclipse&logoColor=0768a8&labelColor=ffffff" alt="eclipse"></a>
-<br>
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/csharp-FFFF00.svg?style=for-the-badge&logo=csharp&logoColor=0768a8&labelColor=ffffff" alt="csharp"></a>
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/java-FFFF00.svg?style=for-the-badge&logo=java&logoColor=0768a8&labelColor=ffffff" alt="java"></a>
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/php-FFFF00.svg?style=for-the-badge&logo=php&logoColor=0768a8&labelColor=ffffff" alt="php"></a>
@@ -31,9 +28,12 @@ Here are some ideas to get you started:
 </p><br>
 
 <p align="center">
+  <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/unity-FFFF00.svg?style=for-the-badge&logo=unity&logoColor=0768a8&labelColor=ffffff" alt="unity"></a>
+<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/eclipse-FFFF00.svg?style=for-the-badge&logo=eclipse&logoColor=0768a8&labelColor=ffffff" alt="eclipse"></a>
 <a href="https://github.com/priyanshumay">
 <img src="https://img.shields.io/badge/vscode-blue.svg?style=for-the-badge&logo=visual-studio-code&labelColor=ffffff&logoColor=blue" alt="vscode">
 </a>
+  
 </p><br>
 
 <p align="center">
