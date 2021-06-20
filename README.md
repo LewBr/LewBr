@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 </p><br>
 
 <p align="center">
-  <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/unity-FFFF00.svg?style=for-the-badge&logo=unity&logoColor=0768a8&labelColor=ffffff" alt="unity"></a>
+  <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/unity-black.svg?style=for-the-badge&logo=unity&logoColor=black&labelColor=ffffff" alt="unity"></a>
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/eclipse-f7873b.svg?style=for-the-badge&logo=eclipse&logoColor=f7873b&labelColor=ffffff" alt="eclipse"></a>
 <a href="https://github.com/priyanshumay">
 <img src="https://img.shields.io/badge/vscode-blue.svg?style=for-the-badge&logo=visual-studio-code&labelColor=ffffff&logoColor=blue" alt="vscode">
