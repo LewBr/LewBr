@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
+## 𝗪𝗵𝗮𝘁 𝗜'm learning
 
 <table>
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>𝗖</span><br><br><br>
+        <span>PHP</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/php.svg">
       </td>
       <td width="25%" align="center">
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
       </td>
       <td width="25%" align="center">
         <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/database.svg">
       </td>
     </tr>
     <tr valign="top">
