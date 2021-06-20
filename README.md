@@ -25,11 +25,11 @@ Here are some ideas to get you started:
         <img height="64px" src="https://cdn.svgporn.com/logos/php.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗖 Sharp</span><br><br><br>
+        <span>𝗖-Sharp</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮</span><br><br><br>
+        <span>Java</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
       </td>
     <tr valign="top">
