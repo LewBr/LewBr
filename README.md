@@ -27,7 +27,8 @@ Here are some ideas to get you started:
 <br>
 <p align="center">
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/mysql-3aabe8.svg?style=for-the-badge&logo=mysql&logoColor=3aabe8&labelColor=ffffff" alt="mysql"></a>
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/sqlite-1daede.svg?style=for-the-badge&logo=sqlite&logoColor=1daede&labelColor=ffffff" alt="sqlite"></a>
+<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/sqlite-1daede.svg?style=for-the-badge&logo=sqlite&logoColor=1daede&labelColor=ffffff" alt="sqlite">
+<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/nosql-1daede.svg?style=for-the-badge&logo=nosql&logoColor=1daede&labelColor=ffffff" alt="sqlite"></a>
 </p><br>
 
 <p align="center">
