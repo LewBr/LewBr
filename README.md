@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/csharp-darkgreen.svg?style=for-the-badge&logo=csharp&logoColor=darkgreen&labelColor=ffffff" alt="csharp"></a>
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/java-red.svg?style=for-the-badge&logo=java&logoColor=red&labelColor=ffffff" alt="java"></a>
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/php-0768a8.svg?style=for-the-badge&logo=php&logoColor=0768a8&labelColor=ffffff" alt="php"></a>
-  <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/html-FFFF00.svg?style=for-the-badge&logo=html&logoColor=0768a8&labelColor=ffffff" alt="html"></a>
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/css-FFFF00.svg?style=for-the-badge&logo=css&logoColor=0768a8&labelColor=ffffff" alt="css"></a>
+  <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/html-orange.svg?style=for-the-badge&logo=html&logoColor=orange&labelColor=ffffff" alt="html"></a>
+<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/css-blue.svg?style=for-the-badge&logo=css&logoColor=blue&labelColor=ffffff" alt="css"></a>
 </p>
 <br>
 <p align="center">
