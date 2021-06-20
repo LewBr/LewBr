@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 <p align="left">
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=F05032&labelColor=ffffff" alt="git"></a>
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=black&labelColor=ffffff" alt="github"></a>
+<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/github-211F1F.svg?style=for-the-badge&logo=github&logoColor=211F1F&labelColor=ffffff" alt="github"></a>
 
 </p>
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=LewBr&show_icons=true&theme=synthwave" alt="LewBr :: Profile Stats" /></p>
