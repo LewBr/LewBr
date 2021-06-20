@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/html-orange.svg?style=for-the-badge&logo=html&logoColor=orange&labelColor=ffffff" alt="html"></a>
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/css-blue.svg?style=for-the-badge&logo=css&logoColor=blue&labelColor=ffffff" alt="css"></a>
 </p>
-<p align="right"><img src="https://github-readme-stats.vercel.app/api?username=LewBr&show_icons=true&theme=synthwave" alt="LewBr :: Profile Stats" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=LewBr&show_icons=true&theme=synthwave" alt="LewBr :: Profile Stats" />
 <br>
 <p align="left">
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/mysql-3aabe8.svg?style=for-the-badge&logo=mysql&logoColor=3aabe8&labelColor=ffffff" alt="mysql"></a>
