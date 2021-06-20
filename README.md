@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/php-0768a8.svg?style=for-the-badge&logo=php&logoColor=0768a8&labelColor=ffffff" alt="php"></a>
   <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/html-orange.svg?style=for-the-badge&logo=html&logoColor=orange&labelColor=ffffff" alt="html"></a>
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/css-blue.svg?style=for-the-badge&logo=css&logoColor=blue&labelColor=ffffff" alt="css"></a>
+  <p align="right"><img src="https://github-readme-stats.vercel.app/api?username=LewBr&show_icons=true&theme=synthwave" alt="LewBr :: Profile Stats" /></p>
 </p>
 <br>
 <p align="left">
