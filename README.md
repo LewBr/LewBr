@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/eclipse-FFFF00.svg?style=for-the-badge&logo=eclipse&logoColor=0768a8&labelColor=ffffff" alt="eclipse"></a>
 <br>
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/csharp-FFFF00.svg?style=for-the-badge&logo=csharp&logoColor=0768a8&labelColor=ffffff" alt="csharp"></a>
+<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/java-FFFF00.svg?style=for-the-badge&logo=java&logoColor=0768a8&labelColor=ffffff" alt="java"></a>
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/php-FFFF00.svg?style=for-the-badge&logo=php&logoColor=0768a8&labelColor=ffffff" alt="php"></a>
 </p><br>
 <p align="center">
