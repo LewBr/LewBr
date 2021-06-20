@@ -52,4 +52,4 @@ Here are some ideas to get you started:
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=black&labelColor=ffffff" alt="github"></a>
 
 </p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=LewBr&show_icons=true&theme=synthwave" alt="LewBr :: Profile Stats" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=LewBr&show_icons=true&theme=synthwave" alt="LewBr :: Profile Stats" /></p>
