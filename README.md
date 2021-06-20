@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ## 𝗪𝗵𝗮𝘁 𝗜'm learning
 
 <p align="center">
+<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/unity-FFFF00.svg?style=for-the-badge&logo=unity&logoColor=0768a8&labelColor=ffffff" alt="unity"></a>
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/php-FFFF00.svg?style=for-the-badge&logo=php&logoColor=0768a8&labelColor=ffffff" alt="php"></a>
 </p><br>
 <p align="center">
