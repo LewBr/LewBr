@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 𝗪𝗵𝗮𝘁 𝗜'm learning
+## What i'm learning
 
 <p align="center">
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/csharp-darkgreen.svg?style=for-the-badge&logo=csharp&logoColor=darkgreen&labelColor=ffffff" alt="csharp"></a>
