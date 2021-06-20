@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 ## What i'm learning
 
 <p align="center">
- <p align="right"><img src="https://github-readme-stats.vercel.app/api?username=LewBr&show_icons=true&theme=synthwave" alt="LewBr :: Profile Stats" /></p>
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/csharp-darkgreen.svg?style=for-the-badge&logo=csharp&logoColor=darkgreen&labelColor=ffffff" alt="csharp"></a>
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/java-red.svg?style=for-the-badge&logo=java&logoColor=red&labelColor=ffffff" alt="java"></a>
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/php-0768a8.svg?style=for-the-badge&logo=php&logoColor=0768a8&labelColor=ffffff" alt="php"></a>
@@ -29,7 +28,7 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/mysql-3aabe8.svg?style=for-the-badge&logo=mysql&logoColor=3aabe8&labelColor=ffffff" alt="mysql"></a>
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/sqlite-1daede.svg?style=for-the-badge&logo=sqlite&logoColor=1daede&labelColor=ffffff" alt="sqlite">
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/mongodb-green.svg?style=for-the-badge&logo=mongodb&logoColor=green&labelColor=ffffff" alt="sqlite"></a>
+<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/mongodb-green.svg?style=for-the-badge&logo=mongodb&logoColor=green&labelColor=ffffff" alt="sqlite"></a><p align="right"><img src="https://github-readme-stats.vercel.app/api?username=LewBr&show_icons=true&theme=synthwave" alt="LewBr :: Profile Stats" /></p>
 </p><br>
 
 <p align="center">
