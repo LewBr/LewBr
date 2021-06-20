@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/csharp-FFFF00.svg?style=for-the-badge&logo=csharp&logoColor=0768a8&labelColor=ffffff" alt="csharp"></a>
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/java-FFFF00.svg?style=for-the-badge&logo=java&logoColor=0768a8&labelColor=ffffff" alt="java"></a>
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/php-FFFF00.svg?style=for-the-badge&logo=php&logoColor=0768a8&labelColor=ffffff" alt="php"></a>
-</p><br>
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/html-FFFF00.svg?style=for-the-badge&logo=html&logoColor=0768a8&labelColor=ffffff" alt="html"></a>
+  <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/html-FFFF00.svg?style=for-the-badge&logo=html&logoColor=0768a8&labelColor=ffffff" alt="html"></a>
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/css-FFFF00.svg?style=for-the-badge&logo=css&logoColor=0768a8&labelColor=ffffff" alt="css"></a>
+</p>
 <br>
 <p align="center">
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/mysql-3aabe8.svg?style=for-the-badge&logo=mysql&logoColor=3aabe8&labelColor=ffffff" alt="mysql"></a>
