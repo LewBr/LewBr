@@ -54,5 +54,5 @@ Here are some ideas to get you started:
 </p>
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=LewBr&show_icons=true&theme=synthwave" alt="LewBr :: Profile Stats" /></p>
 
-<h3 align="left">Support:</h3>
+<h3 align="left">Donation / Sellings:</h3>
 <p><a href="https://www.buymeacoffee.com/lewbr"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"/></a></p><br><br>
