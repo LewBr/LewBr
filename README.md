@@ -56,4 +56,4 @@ Here are some ideas to get you started:
 
 <h3 align="left">Donation / Sellings:</h3>
 <p><a href="https://www.buymeacoffee.com/lewbr"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"/></a></p><br><br>
-<a href="https://www.patreon.com/bePatron?u=60790069" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+<a href="https://www.patreon.com/bePatron?u=60790069" data-patreon-widget-type="become-patron-button">Become a Patron!</a>
