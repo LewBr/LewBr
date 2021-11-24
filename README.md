@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 <a href=""><img src="https://img.shields.io/badge/mysql-3aabe8.svg?style=for-the-badge&logo=mysql&logoColor=3aabe8&labelColor=ffffff" alt="mysql"></a>
 <a href=""><img src="https://img.shields.io/badge/sqlite-1daede.svg?style=for-the-badge&logo=sqlite&logoColor=1daede&labelColor=ffffff" alt="sqlite">
 <a href=""><img src="https://img.shields.io/badge/mongodb-green.svg?style=for-the-badge&logo=mongodb&logoColor=green&labelColor=ffffff" alt="sqlite"></a>
+<a href=""><img src="https://img.shields.io/badge/redis-red.svg?style=for-the-badge&logo=redis&logoColor=red&labelColor=ffffff" alt="sqlite"></a>
 </p><br>
 
 <p align="left">
