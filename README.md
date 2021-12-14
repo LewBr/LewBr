@@ -59,4 +59,5 @@ Here are some ideas to get you started:
 <p><a href="https://www.buymeacoffee.com/lewbr"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"/></a>
 <a href="https://www.patreon.com/bePatron?u=60790069"> <img height="50" width="210" src="https://s3-us-west-1.amazonaws.com/widget-images/become-patron-widget-medium%402x.png">
 </a></p><br>
-- Bitcoin (BTC): `bc1q45tjcx8jt5l00kn0gn92hv6v2zf8t4mfmm6a4p`<br><br>
+- Paypal: https://www.paypal.com/paypalme/lewbr
+- Bitcoin (BTC): bc1q45tjcx8jt5l00kn0gn92hv6v2zf8t4mfmm6a4p<br><br>
