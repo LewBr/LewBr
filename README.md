@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 - Bitcoin (BTC): <code>bc1qe52d98r3c8n3wqv0g08r4dnk306grsg5rrzskm</code><br>
 - Ethereum (ETH): <code>bc1qe52d98r3c8n3wqv0g08r4dnk306grsg5rrzskm</code><br>
 - Tether USD (USDT) <code>0xAF837eeA307027aD899C4ea2046a35f5cb40d118</code><br>
-- Binance Coin (BNB) <code>bnb1jnug89a2x4laefhx4av4ny08jw5vcjcj88glt8</code><br><br>
+- Binance Coin (BNB) <code>bnb1jnug89a2x4laefhx4av4ny08jw5vcjcj88glt8</code><br>
 - USD Coin (USDC) <code>0xAF837eeA307027aD899C4ea2046a35f5cb40d118</code><br>
 - XRP (XRP) <code>r3CeE6hjNKy9xMuUoSTC9iRpJcrNpwNLoz</code><br>
 - Cardano (ADA) <code>addr1q8j9fjjhaw34mn4avl8xz4ll6wec5utnz9rkjt869tphvj0y2n9906arth8t6e7wv9tll5an3fchxy28dyk052krweys4alh5t</code><br>
