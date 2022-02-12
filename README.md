@@ -56,9 +56,10 @@ Here are some ideas to get you started:
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=LewBr&show_icons=true&theme=synthwave" alt="LewBr :: Profile Stats" /></p>
 
 <h3 align="left">Donation / Sellings:</h3>
+Selling Minecraft Bedrock Edition plugins for various software in: https://lewbr.sellix.io/<br><br>
 <p><a href="https://www.buymeacoffee.com/lewbr"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"/></a>
 <a href="https://www.patreon.com/bePatron?u=60790069"> <img height="50" width="210" src="https://s3-us-west-1.amazonaws.com/widget-images/become-patron-widget-medium%402x.png">
-</a></p><br>
+</a></p>
 - Paypal: https://www.paypal.com/paypalme/lewbr<br>
 - Bitcoin (BTC): <code>bc1qe52d98r3c8n3wqv0g08r4dnk306grsg5rrzskm</code><br>
 - Ethereum (ETH): <code>bc1qe52d98r3c8n3wqv0g08r4dnk306grsg5rrzskm</code><br>
