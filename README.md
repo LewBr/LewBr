@@ -60,4 +60,22 @@ Here are some ideas to get you started:
 <a href="https://www.patreon.com/bePatron?u=60790069"> <img height="50" width="210" src="https://s3-us-west-1.amazonaws.com/widget-images/become-patron-widget-medium%402x.png">
 </a></p><br>
 - Paypal: https://www.paypal.com/paypalme/lewbr<br>
-- Bitcoin (BTC): <code>bc1q45tjcx8jt5l00kn0gn92hv6v2zf8t4mfmm6a4p</code>
+- Bitcoin (BTC): <code>bc1qe52d98r3c8n3wqv0g08r4dnk306grsg5rrzskm</code>
+- Ethereum (ETH): <code>bc1qe52d98r3c8n3wqv0g08r4dnk306grsg5rrzskm</code>
+- Tether USD (USDT) <code>0xAF837eeA307027aD899C4ea2046a35f5cb40d118</code>
+- Binance Coin (BNB) <code>bnb1jnug89a2x4laefhx4av4ny08jw5vcjcj88glt8</code>
+- USD Coin (USDC) <code>0xAF837eeA307027aD899C4ea2046a35f5cb40d118</code>
+- XRP (XRP) <code>r3CeE6hjNKy9xMuUoSTC9iRpJcrNpwNLoz</code>
+- Cardano (ADA) <code>addr1q8j9fjjhaw34mn4avl8xz4ll6wec5utnz9rkjt869tphvj0y2n9906arth8t6e7wv9tll5an3fchxy28dyk052krweys4alh5t</code>
+- Solana (SOL) <code>DoYzPuAg8kQLPhBfWRSNRoVMwsyfgKbUyNfqBaeHqyhm</code>
+- Dogecoin (DOGE): <code>D7t5xHm5M3oUjn2fa4eh7vTx9QY2Tznhqc</code>
+- Polkadot (DOT) <code>1XEuzuKUCAQ5LFzhFqsGBPQwu4rLETHFcxq12J2aCjAgYjb</code>
+- Dai (DAI) <code>0xAF837eeA307027aD899C4ea2046a35f5cb40d118</code>
+- Litecoin (LTC) <code>LLcsM8W9U4D263uTL13oQ7FL9vfC8mCaHt</code>
+- Cosmos (ATOM) <code>cosmos1chd0vl8v3s9n5y5azvvdzn3us8umdgvncggs7r</code>
+- Chainlink (LINK) <code>0xAF837eeA307027aD899C4ea2046a35f5cb40d118</code>
+- Uniswap (UNI) <code>0xAF837eeA307027aD899C4ea2046a35f5cb40d118</code>
+- Tron (TRX) <code>TP5HsNwyPyGDkhdeTtKRKtX9cMR36VMWQK</code>
+- Bitcoin Cash (BCH) <code>qpe9c40me22dt328u38nzsayx8fqz8ezwchx0rla5h</code>
+- Stellar (XLM) <code>GCBNXUVJWZE4B5QZ4JKOPCXKGPAOO3A3VTPR275WZ6QJFYQYH4AQHHUC</code>
+- Tezos (XTZ) <code>tz1P3b6hm78mbGpNGrFCoQstyFG8RYHrE7e1</code>
