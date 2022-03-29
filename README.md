@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 One of my projects:
 <br>Bots 🤖:<br> 
-Twitter: <a href="https://www.twitter.com/spotifyrank"> Spotify Ranking (@spotifyrank)</a> (Bot for Twitter that shows the top 10 trending songs on Spotify daily.)
+Twitter: <a href="https://www.twitter.com/spotifyrank"> Spotify Ranking (@spotifyrank)</a> (Bot for Twitter that shows the top 10 trending songs on Spotify daily)
 <br>Games ⛏:<br>
-Minecraft Server: <a href="https://www.twitter.com/leohardu"> LeoHardu (@leohardu)</a> (Minecraft Server for Bedrock Edition)
+Minecraft Server: <a href="https://www.twitter.com/leohardu"> LeoHardu (@leohardu)</a> (Minigames server for Bedrock Edition)
 
 
 ## What i'm learning
