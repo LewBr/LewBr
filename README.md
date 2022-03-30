@@ -20,6 +20,9 @@ One of my projects:
 Twitter: <a href="https://www.twitter.com/spotifyrank"> Spotify Ranking (@spotifyrank)</a> (Bot for Twitter that shows the top 10 trending songs on Spotify daily)
 <br>Games ⛏:<br>
 Minecraft Server: <a href="https://www.twitter.com/leohardu"> LeoHardu (@leohardu)</a> (Minigames server for Bedrock Edition)
+<br>Programming Stuff 👨‍💻:<br>
+PocketMine-MP Plugin: <a href="https://github.com/LewBr/SimpleTitle"> SimpleTitle</a> (Plugin that shows a player the title in screen when joining)<br>
+PocketMine-MP Plugin: <a href="https://github.com/LewBr/WorldInventory"> WorldInventory</a> (Plugin that saves a player inventory based on world)
 
 
 ## What i'm learning
