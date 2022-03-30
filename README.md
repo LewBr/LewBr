@@ -1,22 +1,7 @@
 ### Hello, welcome to my profile. :)
 
-<!--
-**LewBr/LewBr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-One of my projects:
-<br>Bots 🤖:<br> 
+#### One of my projects:
+Bots 🤖:<br> 
 Twitter: <a href="https://www.twitter.com/spotifyrank"> Spotify Ranking (@spotifyrank)</a> (Bot for Twitter that shows the top 10 trending songs on Spotify daily)
 <br>Games ⛏:<br>
 Minecraft Server: <a href="https://www.twitter.com/leohardu"> LeoHardu (@leohardu)</a> (Minigames server for Bedrock Edition)
@@ -24,6 +9,16 @@ Minecraft Server: <a href="https://www.twitter.com/leohardu"> LeoHardu (@leohard
 PocketMine-MP Plugin: <a href="https://github.com/LewBr/SimpleTitle"> SimpleTitle</a> (Plugin that shows a player the title in screen when joining)<br>
 PocketMine-MP Plugin: <a href="https://github.com/LewBr/WorldInventory"> WorldInventory</a> (Plugin that saves a player inventory based on world)
 
+#### Social media:
+
+[<img align="left" alt="leohardu.com" width="25px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/globe-light.svg" />][website-light]
+[<img align="left" alt="leohardu.com" width="25px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/globe-dark.svg" />][website-dark]
+[<img align="left" alt="LewBr | YouTube" width="25px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/youtube-light.svg" />][youtube-light]
+[<img align="left" alt="LewBr | YouTube" width="25px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/youtube-dark.svg" />][youtube-dark]
+[<img align="left" alt="lew_br | Twitter" width="25px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/twitter-light.svg" />][twitter-light]
+[<img align="left" alt="lew_br | Twitter" width="25px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/twitter-dark.svg" />][twitter-dark]
+[<img align="left" alt="lewbr | Instagram" width="25px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/instagram-light.svg" />][instagram-light]
+[<img align="left" alt="lewbr | Instagram" width="25px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/instagram-dark.svg" />][instagram-dark]<br>
 
 ## What i'm learning
 
@@ -90,3 +85,12 @@ Selling Minecraft Bedrock Edition plugins for various software in: https://lewbr
 - Bitcoin Cash (BCH) <code>qpe9c40me22dt328u38nzsayx8fqz8ezwchx0rla5h</code><br>
 - Stellar (XLM) <code>GCBNXUVJWZE4B5QZ4JKOPCXKGPAOO3A3VTPR275WZ6QJFYQYH4AQHHUC</code><br>
 - Tezos (XTZ) <code>tz1P3b6hm78mbGpNGrFCoQstyFG8RYHrE7e1</code>
+
+[website-light]: https://leohardu.com#gh-light-mode-only
+[website-dark]: https://leohardu.com#gh-dark-mode-only
+[twitter-light]: https://twitter.com/lew_br#gh-light-mode-only
+[twitter-dark]: https://twitter.com/lew_br#gh-dark-mode-only
+[youtube-light]: https://www.youtube.com/c/LewGhostGames#gh-light-mode-only
+[youtube-dark]: https://www.youtube.com/c/LewGhostGames#gh-dark-mode-only
+[instagram-light]: https://instagram.com/lewbr#gh-light-mode-only
+[instagram-dark]: https://instagram.com/lewbr#gh-dark-mode-only
