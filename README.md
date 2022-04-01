@@ -1,4 +1,5 @@
-### Hello, welcome to my profile. :)
+### Hello, welcome to my profile.
+About: My name is Leonardo Santos, or also known as LewBr, I am a Brazilian, 18 years old and I like things related to electronics 💻 and languages! I live in Germany at the moment in Bayern Munich.<br>I have already had a few projects on the internet, mostly related to the game Minecraft. Such as the biggest Minecraft server for Brazilian Bedrock a few years ago called "PocketGames", one of my first servers with some YouTubers. I have also been part of the team of the largest Minecraft server in Java currently from Brazil, the famous "RedeSky". And I'm currently doing volunteer work in the team on the server in partnership with Microsoft, the "CubeCraft Games" and creating/continuing some projects when I have time.
 
 #### One of my projects:
 Bots 🤖:<br> 
