@@ -1,6 +1,6 @@
 ### Hello, welcome to my profile.
 About: 
-My name is Leonardo Santos, or also known as LewBr, I am a Brazilian, 18 years old and I like things related to electronics 💻 and languages! I live in Germany at the moment in Bayern Munich.<br>I have already had a few projects on the internet, mostly related to the game Minecraft. Such as the biggest Minecraft server of Brazil for Pocket Edition (Bedrock Edition in now days) a few years ago called "PocketGames", one of my first servers with some big YouTubers. I have also been part of the team of the largest Minecraft server in Java currently of Brazil, the famous "RedeSky". And I'm currently doing volunteer work in a server in partnership with Microsoft, the current largest server in Minecraft Bedrock, the "CubeCraft Games" and creating/continuing some projects when I have time.
+My name is Leonardo Santos, or also known as LewBr, I am a Brazilian, 19 years old and I like things related to electronics 💻 and languages! I live in Germany at the moment in Bayern Munich.<br>I have already had a few projects on the internet, mostly related to the game Minecraft. Such as the biggest Minecraft server of Brazil for Pocket Edition (Bedrock Edition in now days) a few years ago called "PocketGames", one of my first servers with some big YouTubers. I have also been part of the team of the largest Minecraft server in Java currently of Brazil, the famous "RedeSky". And I'm currently doing volunteer work in a server in partnership with Microsoft, the current largest server in Minecraft Bedrock, the "CubeCraft Games" and creating/continuing some projects when I have time.
 <br>Hobbies: I like to do fitness when I have time, cook different recipes from different countries, talk to interesting people, study about things related to electronics and languages/communication in general, play games and create/code projects.
 
 ### One of my projects:
@@ -11,6 +11,11 @@ Minecraft Server: <a href="https://www.twitter.com/leohardu"> LeoHardu (@leohard
 Programming Stuff 👨‍💻:<br>
 PocketMine-MP Plugin: <a href="https://github.com/LewBr/SimpleTitle"> SimpleTitle</a> (Plugin that shows a player the title in screen when joining)<br>
 PocketMine-MP Plugin: <a href="https://github.com/LewBr/WorldInventory"> WorldInventory</a> (Plugin that saves a player inventory based on world)
+
+### Profiles:
+PMMP Forum: https://forums.pmmp.io/members/lewbr.1024/<br>
+CubeCraft Games Forum: https://www.cubecraft.net/members/lewbr.584918/<br>
+Linkedin: https://www.linkedin.com/in/lewbr/
 
 ### Social media:
 
