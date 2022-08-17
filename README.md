@@ -6,6 +6,7 @@ My name is Leonardo Santos, or also known as LewBr, I am a Brazilian, 19 years o
 ### One of my projects:
 Bots 🤖:<br> 
 Twitter: <a href="https://www.twitter.com/spotifyrank"> Spotify Ranking (@spotifyrank)</a> (Bot for Twitter that shows the top 10 trending songs on Spotify daily)<br>
+Discord: <a href="https://github.com/LewBr/Minebot"> Minebot</a> (Bot for Discord with some features related with the game Minecraft)<br>
 Games ⛏:<br>
 Minecraft Server: <a href="https://www.twitter.com/leohardu"> LeoHardu (@leohardu)</a> (Minigames server for Bedrock Edition)<br>
 Programming Stuff 👨‍💻:<br>
